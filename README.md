@@ -1,4 +1,4 @@
-# swc-cern-example1
+# swc-cern-example
 Example repository for Software Carpentry @CERN Nov 2019
 
 Some features of Markdown:
